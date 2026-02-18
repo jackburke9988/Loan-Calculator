@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/jackburke/VS Code/CS2010/Pgm2/output/BurkeJ_pgm2'
+relocations:     []
+...
